@@ -1,5 +1,9 @@
 The Python development environment is Jupiter Notebook.
 
+Main code? Please correct and use.
+
+The comments are written in Japanese, so if you cannot read them, please translate them to Google.
+
 Please refer to the following for related packages and versions.
 ## (1) PC pattern with GPU installed
 - Package and version
