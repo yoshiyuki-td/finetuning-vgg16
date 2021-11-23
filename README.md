@@ -30,12 +30,12 @@ Please refer to the following for related packages and versions.
 For reference, the package and version of the Raspberry pie are also listed.
 - Package and version
     - Python                  3.7.9?
-    - h5py                    3.1.0?
-    - Keras                   2.4.3?
+    - h5py                    2.1.0
+    - Keras                   2.3.1
     - matplotlib              3.4.1?
     - numpy                   1.19.5?
     - pandas                  1.2.3?
-    - tensorflow-gpu          2.5.0?
+    - tensorflow              2.2.0
 
 Raspberry Pi used 64bitOS by referring to the following site.
 
