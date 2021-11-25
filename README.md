@@ -1,11 +1,13 @@
 The Python development environment is Jupiter Notebook.
 
-Main code? Please correct and use.
+Please correct the value of the main code and use it.
 
 The comments are written in Japanese, so if you cannot read them, please translate them to Google.
 
 Please refer to the following for related packages and versions.
+
 ## (1) PC pattern with GPU installed
+
 - Package and version
     - Python                  3.7.9
     - h5py                    3.1.0
@@ -16,6 +18,7 @@ Please refer to the following for related packages and versions.
     - tensorflow-gpu          2.5.0
 
 ## (2) PC pattern without GPU
+
 - Package and version
     - Python                  3.7.9
     - h5py                    2.10.0
@@ -28,6 +31,7 @@ Please refer to the following for related packages and versions.
 (2) built an environment to use the learning model with Raspberry Pi.
 
 For reference, the package and version of the Raspberry pie are also listed.
+
 - Package and version
     - Python                  3.7.3
     - h5py                    2.1.0
