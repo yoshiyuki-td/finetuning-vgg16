@@ -26,7 +26,7 @@ Please refer to the following for related packages and versions.
     - matplotlib              3.3.2
     - numpy                   1.1.3
     - pandas                  1.2.3
-    - tensorflow-gpu          2.1.0
+    - tensorflow              2.1.0
    
 (2) built an environment to use the learning model with Raspberry Pi.
 
