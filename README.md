@@ -24,9 +24,9 @@ Please refer to the following for related packages and versions.
     - h5py                    2.10.0
     - Keras                   2.3.1
     - matplotlib              3.3.2
-    - numpy                   1.1.3
-    - pandas                  1.2.3
-    - tensorflow              2.1.0
+    - numpy                   1.19.2
+    - pandas                  1.1.3
+    - tensorflow              2.2.0
    
 (2) built an environment to use the learning model with Raspberry Pi.
 
